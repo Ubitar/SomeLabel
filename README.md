@@ -12,3 +12,5 @@ fbreader https://gitlab.com/axet/android-book-reader/-/tree/master/
 scrcpy https://github.com/Genymobile/scrcpy
 
 trafficMonitor 
+
+Android drawable preview
